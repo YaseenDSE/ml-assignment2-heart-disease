@@ -103,23 +103,14 @@ This project implements and compares six different classification algorithms to 
 \### Comparison Table
 
 
-================================================================================
-
-| Model               |   Accuracy |    AUC |   Precision |   Recall |     F1 |    MCC |
-
-|:--------------------|-----------:|-------:|------------:|---------:|-------:|-------:|
-
-| Logistic Regression |     0.8098 | 0.9298 |      0.7619 |   0.9143 | 0.8312 | 0.6309 |
-
-| Decision Tree       |     0.9024 | 0.9784 |      0.9293 |   0.8762 | 0.902  | 0.8064 |
-
-| K-Nearest Neighbors |     1      | 1      |      1      |   1      | 1      | 1      |
-
-| Naive Bayes         |     0.8293 | 0.9043 |      0.807  |   0.8762 | 0.8402 | 0.6602 |
-
-| Random Forest       |     0.9659 | 0.993  |      0.9623 |   0.9714 | 0.9668 | 0.9317 |
-
-| XGBoost             |     1      | 1      |      1      |   1      | 1      | 1      |
+| ML Model Name | Accuracy | AUC | Precision | Recall | F1 | MCC |
+|---------------|----------|-----|-----------|--------|-----|-----|
+| Logistic Regression | 0.8098 | 0.9298 | 0.7619 | 0.9143 | 0.8312 | 0.6309 |
+| Decision Tree | 0.9024 | 0.9784 | 0.9293 | 0.8762 | 0.9020 | 0.8064 |
+| K-Nearest Neighbors | 1.0000 | 1.0000 | 1.0000 | 1.0000 | 1.0000 | 1.0000 |
+| Naive Bayes | 0.8293 | 0.9043 | 0.8070 | 0.8762 | 0.8402 | 0.6602 |
+| Random Forest | 0.9659 | 0.9930 | 0.9623 | 0.9714 | 0.9668 | 0.9317 |
+| XGBoost | 1.0000 | 1.0000 | 1.0000 | 1.0000 | 1.0000 | 1.0000 |
 
 
 
@@ -338,5 +329,6 @@ BITS Pilani Work Integrated Learning Programme
 
 
 This project is created for academic purposes as part of the Machine Learning course assignment.
+
 
 
