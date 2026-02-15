@@ -8,7 +8,7 @@
 
 \*\*Institution:\*\* BITS Pilani  
 
-\*\*Assignment:\*\* 2 (15 Marks)
+\*\*Assignment:\*\* 2
 
 
 
@@ -338,4 +338,5 @@ BITS Pilani Work Integrated Learning Programme
 
 
 This project is created for academic purposes as part of the Machine Learning course assignment.
+
 
