@@ -251,8 +251,7 @@ streamlit run app.py
 The application is deployed on       Streamlit Community Cloud      .
 
 
-
-      Live App URL: https://ml-assignment2-heart-disease-983gpeksqscyxrq5tbv6bq.streamlit.app/
+URL: [https://ml-assignment2-heart-disease-983gpeksqscyxrq5tbv6bq.streamlit.app/](url)
 
 
 
@@ -315,6 +314,7 @@ BITS Pilani Work Integrated Learning Programme
 
 
 This project is created for academic purposes as part of the Machine Learning course assignment.
+
 
 
 
