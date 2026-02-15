@@ -1,0 +1,23 @@
+[server]
+headless = true
+port = 8501
+
+[browser]
+gatherUsageStats = false
+```
+
+5. Click **"Commit new file"**
+
+---
+
+## **ALSO: Create `runtime.txt` to Force Python Version**
+
+This is the **critical fix**:
+
+1. In your GitHub repo, click **"Add file"** → **"Create new file"**
+
+2. Name it: `runtime.txt`
+
+3. Paste ONLY this line:
+```
+python-3.10
